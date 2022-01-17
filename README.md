@@ -1,7 +1,7 @@
 # Project-5--Patients-Survival-
-*[Your Name]*
+*[Nesma Dehili, Ana Cortes, Ouykhy Quach]*
 
-*[Your Cohort, Campus & Date]*
+*[IronHack, January 17th, 2021]*
 
 ## Content
 - [Project Description](#project-description)
@@ -11,22 +11,33 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+The goals of this project is to apply the data preparation knowledge and to train more in Python, SQL and Streamlit with data from a hosp
+
+Plan our work
+Manage git repository.
+Build your code from scratch.
+Put into practice the basic data processing concepts learned during the week.
+Get used to public presentations..
 
 ## Rules
-Briefly describe the rules of the game.
 
-## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Use the Kanban board (offline) for this project.
+Clean the data.
+Examine the dataset for the possible issues
+Analyze the data using statistics, crosstab, groupby, pivots, and charts.
+Develop the idea of the dashboard
+Represent the most powerful insights?
+Data input and data output (charts, text, tables)
+Have at least 12 widgets that describe the data.
+Describe the idea of the dashboard and each widget.
+Create a presentation
+
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
-
+Splitting the tasks between us and work based on that. nWe have spplitted our data into three sets and each one of us had to manage one set. 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Nesmad/Project-5--Patients-Survival-)  
+[Slides](https://github.com/Nesmad/Project-5--Patients-Survival-/blob/main/Patient%20Survival-%20Final%20.pdf)  
+  
