@@ -10,7 +10,8 @@
 - [Links](#links)
 
 ## Project Description
-The goals of this project is to apply the data preparation knowledge and to train more in Python, SQL and Streamlit with data from a hosp
+The goals of this project is to apply the data preparation knowledge and to train more in Python, SQL and Streamlit with data from a hospital.
+We can find the streamlit link here (https://share.streamlit.io/akcortes/streamlitapp/main/untitled9.py)
 
 Plan our work
 Manage git repository.
@@ -39,4 +40,5 @@ Include links to your repository, slides and kanban board. Feel free to include 
 
 [Repository](https://github.com/Nesmad/Project-5--Patients-Survival-)  
 [Slides](https://github.com/Nesmad/Project-5--Patients-Survival-/blob/main/Patient%20Survival-%20Final%20.pdf)  
+[Streamlit Link](https://share.streamlit.io/akcortes/streamlitapp/main/untitled9.py)
   
