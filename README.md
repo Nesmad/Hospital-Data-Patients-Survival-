@@ -6,7 +6,6 @@
 ## Content
 - [Project Description](#project-description)
 - [Rules](#rules)
-- [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
 
